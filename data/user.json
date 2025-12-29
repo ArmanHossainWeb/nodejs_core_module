@@ -1,0 +1,11 @@
+{
+  "name": "Arman Hossain",
+  "age": 22,
+  "email": "arman@example.com",
+  "hobbies": [
+    "Web Development",
+    "Learning New Technologies",
+    "Content Creation",
+    "Graphic Design"
+  ]
+}

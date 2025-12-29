@@ -1,0 +1,3 @@
+Mood: focused 
+
+learning about async operations now.
